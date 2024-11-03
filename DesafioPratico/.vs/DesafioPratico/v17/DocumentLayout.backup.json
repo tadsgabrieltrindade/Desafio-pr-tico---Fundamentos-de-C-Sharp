@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5777491A-755C-4AFC-A2A4-D4B8C39F1193}|DesafioPratico.csproj|d:\\workspaceprogramming\\rocketseat\\csharp\\fundamentos\\desafiopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5777491A-755C-4AFC-A2A4-D4B8C39F1193}|DesafioPratico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5777491A-755C-4AFC-A2A4-D4B8C39F1193}|DesafioPratico.csproj|d:\\workspaceprogramming\\rocketseat\\csharp\\fundamentos\\desafiopratico\\desafios\\desafioseis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5777491A-755C-4AFC-A2A4-D4B8C39F1193}|DesafioPratico.csproj|solutionrelative:desafios\\desafioseis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesafioSeis.cs",
+              "DocumentMoniker": "D:\\WorkspaceProgramming\\RocketSeat\\CSharp\\Fundamentos\\DesafioPratico\\Desafios\\DesafioSeis.cs",
+              "RelativeDocumentMoniker": "Desafios\\DesafioSeis.cs",
+              "ToolTip": "D:\\WorkspaceProgramming\\RocketSeat\\CSharp\\Fundamentos\\DesafioPratico\\Desafios\\DesafioSeis.cs",
+              "RelativeToolTip": "Desafios\\DesafioSeis.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:39:04.208Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +41,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\WorkspaceProgramming\\RocketSeat\\CSharp\\Fundamentos\\DesafioPratico\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:50:01.904Z",
+              "WhenOpened": "2024-11-03T00:08:21.257Z",
               "EditorCaption": ""
             }
           ]

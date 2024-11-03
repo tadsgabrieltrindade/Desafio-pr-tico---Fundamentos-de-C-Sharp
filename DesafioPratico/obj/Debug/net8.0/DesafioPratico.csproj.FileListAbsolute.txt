@@ -1,0 +1,15 @@
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.AssemblyInfoInputs.cache
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.AssemblyInfo.cs
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.csproj.CoreCompileInputs.cache
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.sourcelink.json
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\bin\Debug\net8.0\DesafioPratico.exe
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\bin\Debug\net8.0\DesafioPratico.deps.json
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\bin\Debug\net8.0\DesafioPratico.runtimeconfig.json
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\bin\Debug\net8.0\DesafioPratico.dll
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\bin\Debug\net8.0\DesafioPratico.pdb
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.dll
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\refint\DesafioPratico.dll
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.pdb
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\DesafioPratico.genruntimeconfig.cache
+D:\WorkspaceProgramming\RocketSeat\CSharp\Fundamentos\DesafioPratico\obj\Debug\net8.0\ref\DesafioPratico.dll
